@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <menuitem
+            id="menu_requisition_root"
+            name="Requisition"
+            web_icon="requisition,static/description/icon.png"
+            sequence="-1"/>
+    </data>
+</odoo>
